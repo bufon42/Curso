@@ -1,4 +1,6 @@
 # Introducción a PowerShell
+//Cambios desde github
+
 
 ## Conocimientos previos
 - Programación (lenguajes, nivel, aprendido o utilizado)
